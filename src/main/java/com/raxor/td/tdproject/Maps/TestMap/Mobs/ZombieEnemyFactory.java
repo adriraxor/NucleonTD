@@ -1,4 +1,4 @@
-package com.raxor.td.tdproject.Maps.TestMap;
+package com.raxor.td.tdproject.Maps.TestMap.Mobs;
 
 import com.almasb.fxgl.dsl.FXGL;
 import com.almasb.fxgl.entity.Entity;
@@ -8,6 +8,7 @@ import com.almasb.fxgl.entity.Spawns;
 import com.raxor.td.tdproject.EntityType;
 import com.raxor.td.tdproject.Maps.TestMap.MobsCore.MobEnemyHealthComponent;
 import com.raxor.td.tdproject.Maps.TestMap.MobsCore.MobEnemyMoveComponent;
+import com.raxor.td.tdproject.Maps.TestMap._TestMapCore;
 import javafx.scene.paint.Color;
 import javafx.scene.shape.Rectangle;
 
